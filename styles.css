@@ -1,0 +1,55 @@
+.header-section {
+  background-color: #0045ff;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.name {
+  color: white;
+}
+
+.body-section {
+  background-colour:white 
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+.primary summary {
+  color: #181818;
+}
+
+.technical skills {
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.experience {
+  background-color: white;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.Training programme and activities  {
+  background-color: white;
+  padding-right: 50px;
+  padding-left: 80px;
+  padding-bottom: 20px;
+}
+
+.references {
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+    
+.footer {
+  background-color: #0045ff;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+    
+    
+

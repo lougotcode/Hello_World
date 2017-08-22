@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head> <!-- Header -->
+<meta http-equiv="Content-Type; x-ua-compatible" content="text/html; charset=utf-8; ie=edge"/>
+<meta name="description" content="This is a simple portfolio webpage showing Louis's skill sets and competencies. It is the first Task for the Integer Boot Camp Process "/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="louischukwumaoffor, Integer, BootCamp, Task, Portfolio, CV, Resume "/>
+<meta name="author" content="Louis Chukwuma Offor"/>
+<title>Louis's Resume</title>
+ </head>
+
+<body>
+
+    <div id="page-wrap"> <!-- ///////// Big Wrapper For Content ///////// -->
+    
+        <img src="images/Louis Offor.jpg" alt="Photo of Louis" id="pic" /> <!-- ////// IMAGE ///////// -->
+    
+        <div id="contact-info"> <!-- //////// CONTACT DIV //////// -->
+        
+            <h1 class="fn">Louis Chukwuma Offor</h1>
+        
+            <p>
+                Telephone: <span class="tel">08165036305</span><br />
+                Email: <a class="email" href="mailto:louchuks26@gmail.com">louchuks26@gmail.com</a>
+            </p>
+        </div> <!-- CONTACT DIV ENDS HERE -->
+                
+        <div id="personal summary"> <!-- PERSONAL SUMMARY DIV START -->
+            <p>
+                Consistently seeking learning opportunities as i look forward to pursue a highly successful career in web/software development. Committed and very motivated individual with outstanding customer service orientation, communication and decison making core skills. Very strong work ethic, professional attitude and demaeanor, as well being able to take the initiative and solve robloems as they appear. Proficient when it comes to learning new things and procedures very quickly anddtaking ownership of particular projects.
+            </p>
+        </div> <!-- PERSONAL SUMMARY DIV END --><div class="clear"></div>
+        
+        <dl>
+            <dd class="clear"></dd>
+            
+            <dt>Education</dt>
+            <dd>
+                <h3>University of Benin</h3>
+                <p><strong>Bachelor of Science:</strong> Geology<br/>
+                </p>
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>TECHINAL SKILLS</dt>
+            <dd><dd>
+                <h2>Diesel Generator Engine</h2>
+                <ul>
+                    <li>DG Engine overhauling and maintenance.</li>
+                    <li>Installation of faulty and worn out parts.</li>
+                    <li>Routine checks and troubleshooting on time relay and switches.</li>
+                    <li>Familiar with troubleshooting tower networks connection associated with DG Engines failure.</li>
+                </ul>
+                
+                <h2>Field Operations</h2>
+                <ul>
+                    <li>Familiar with network operations centre procedures.</li>
+                    <li>Identifying, troubleshooting and analyzing NOC escalations spot common trends.</li>
+                    <li>Fair knowledge in troubleshooting faulty cable network node terminals.</li>
+                </ul>
+                <h2>Web Programming and Design</h2>
+                <ul>
+                    <li>HTML/CSS, Bootstrap</li>
+                    <li>Python</li>
+                    <li>Wordpress</li>
+                    <li>Adobe Photoshop>
+                    <li>sketch and Canva</li>
+                </ul>
+                <h2>Other Skills and Competencies</h2>
+                <ul>
+                    <li>Leadership - Planning and Organizing, Budget Control and Decision Making.</li>
+                    <li>Communication - Strong Oral and Written Communication skills.</li>
+                    <li>Interpersonal Relationship - Great Interpersonal skills.</li>
+                    <li>Smart - Innovative & Creative, Highly Numerate, Information Retrieval & Quick Thinker.</li>
+                    <li>Analytical & Articulate – Ability to undertake focused research and present appropriate results.</li>
+                </ul>
+            </dd>
+            
+            <dd class="clear"></dd> 
+            
+            <dt>EXPERIENCE</dt>
+            <dd>
+                <h2>Event Industry NG (Digital Consultant and Business Developer Intern) - Lagos, Nigeria - April 2017 - Date</span></h2>
+                <ul>
+                    <li>Created and set up online/digital event campaigns for clients.</li>
+                    <li>Applied social media marketing skills to drive the bottomlibe for client's businesses.</li>
+                    <li>Carrying out due diligence in understanding the basic needs of customers</li>
+                    <li>Conducting frequent market research to learn of client's competitors and latest trends.</li>
+                    <li>Establised a solid working rapport with colleagues and clients alike.</li>
+
+                </ul>
+                
+                <h2>Administrative Assistant (Junior) at Hesges Synergy Nigeria Limited- HS, Lagos - NG. January 2016 – April 2017</span></h2>
+                <ul>
+                    <li>Developed and updated administrative systems around the office to make them more efficient.</li>
+                    <li> Always maintained top confidentiality by ensuring sensitive information to internal colleagues or external enquiries was handled in a very sensitive and confidential manner.</li>
+                    <li>Devised an effective way of maintaining an efficient work flow around the office.</li>
+                    
+
+                </ul>
+                
+                <h2>Petrolseal Ocean & Energy Limited – POEL (Telecom Operations)<span>Technical Support Intern Analyst - Port Harcourt(NG). - June 2014 – December 2015.</span></h2>
+                <ul>
+                  
+                    <li>Analyzing NOC escalations to spot common trends and underlying problems.</li>
+                    <li>Prepared and submitted site reports after each field outing visit.</li>
+                    <li>Updating self-help documents so that field technician/maintenance engineer can try to fix problem in record time.</li>
+                    <li>Testing and fixing faulty equipment.</li>
+                    <li>Developed as a rapid customer service orientation when responding to, resolving and escalating challenges where necessary.</li>
+
+
+                </ul>            
+                </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>TRAINING PROGRAMMES AND ACTIVITIES<dt>
+            <dd>
+             ul
+             
+             <h2>Graduate Employability Trainee (PGFA Career Kickstart Programme) - Poise Graduate Finishing Academy - 2016.</h2>
+             <h2>Online opinion poll and social media publicist on Nigeria Centenary Social Media Platform - 2013.</h2> 
+             <h2>One of the selected Centennial Ambassadors by TGIC social media forum on occasion of Nigeria’s Centenary Celebrations – 2014.</h2>
+             
+             </ul>
+
+            
+            <dd class="clear"></dd>
+            
+            <dt>REFERENCES</dt>
+            <dd>Available on request</dd>
+            
+            <dd class="clear"></dd>
+        </dl>
+        
+        <div class="clear"></div>
+    
+    </div> <!-- Wrapper Closes Here -->
+
+</body>
+
+</html>
+                
+                
+                
+                
+                
+            
+            
+            
+
+                
+        
+        
+ 
